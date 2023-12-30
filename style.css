@@ -1,0 +1,206 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.d1{
+    width: 100%;
+    height: 50px;
+    background-color: red;
+}
+.d2{
+    width: 50%;
+    height: 50px;
+    background-color: yellow;
+    float: left;
+}
+.d3{
+    width: 50%;
+    height: 50px;
+    background-color: green;
+    margin-left: 50%;
+}
+.d4{
+    width: 30%;
+    height: 50px;
+    background-color: red;
+    float: left;
+}
+.d5{
+    width: 30%;
+    height: 50px;
+    background-color: purple;
+    float: left;
+}
+.d6{
+    width: 40%;
+    height: 50px;
+    background-color: yellow;
+    margin-left: 60%;
+}
+.d7{
+    width: 100%;
+    height: 300px;
+    background-color: brown;
+}
+.d8{
+    width: 50%;
+    height: 250px;
+    background-color: aqua;
+    float: left;
+}
+.d9{
+    width: 50%;
+    height: 250px;
+    background-color: yellow;
+    margin-left: 50%;
+}
+.d10{
+    width: 25%;
+    height: 50px;
+    background-color: rgb(71, 255, 25);
+    float: left;
+}
+.d11{
+    width: 25%;
+    height: 50px;
+    background-color: yellow;
+    margin-left: 25%;
+    float: left;
+}
+.d12{
+    width: 25%;
+    height: 50px;
+    background-color: rgb(46, 190, 10);
+    float: left;
+}
+.d13{
+    width: 25%;
+    height: 50px;
+    background-color: red;
+    margin-left: 25%;
+}
+.d14{
+    width: 12.5%;
+    height: 50px;
+    background-color: black;
+    float: left;
+}
+.d15{
+    width: 12.5%;
+    height: 50px;
+    background-color: blue;
+    
+    float: left;
+}
+.d16{
+    width: 12.5%;
+    height: 50px;
+    background-color: rgb(0, 255, 115);
+
+    float: left;
+}
+.d17{
+    width: 12.5%;
+    height: 50px;
+    background-color: aqua;
+    
+    float: left;
+}
+.d18{
+    width: 12.5%;
+    height: 50px;
+    background-color: brown;
+    float: left;
+}
+.d19{
+    width: 12.5%;
+    height: 50px;
+    background-color: darkblue;
+    float: left;
+}
+.d20{
+    width: 12.5%;
+    height: 50px;
+    background-color: darkorange;
+    float: left;
+}
+.d21{
+    width: 12.5%;
+    height: 50px;
+    background-color: darkred;
+    float: left;
+}
+.d22{
+    width: 12.5%;
+    height: 50px;
+    background-color: lightcoral;
+}
+.d23{
+    width: 80%;
+    height: 50px;
+    background-color: red;
+    float: left;
+    
+}
+.d24{
+    width: 20%;
+    height: 50px;
+    background-color: green;
+    margin-left: auto;
+}
+.d25{
+    width: 25%;
+    height: 50px;
+    background-color: blueviolet;
+    float: left;
+}
+.d26{
+    width: 75%;
+    height: 50px;
+    background-color: rgb(192, 56, 255);
+    margin-left: auto
+}
+.d27{
+    width: 25%;
+    height: 50px;
+    background-color: rgb(255, 176, 6);
+    float: left;
+}
+.d28{
+    width: 25%;
+    height: 50px;
+    background-color: brown;
+    float: left;
+}
+.d29{
+    width: 50%;
+    height: 50px;
+    background-color: darkseagreen;
+    margin-left: 50%;
+}
+.d30{
+    width: 45%;
+    height: 50px;
+    background-color: darkgreen;
+    float: left;
+}
+.d31{
+    width: 10%;
+    height: 50px;
+    background-color: black;
+    float: left;
+
+    
+}
+.d32{
+    width: 45%;
+    height: 50px;
+    background-color: blue;
+    margin-left: auto;
+}
+.d33{
+    width: 100%;
+    height: 100px;
+    background-color: red;
+}
